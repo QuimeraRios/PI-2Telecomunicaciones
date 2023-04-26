@@ -3,3 +3,9 @@ python
 pandas
 streamlit cloud
 openpyxl
+warnings
+numpy
+matplotlib.pyplot
+seaborn
+pandas.plotting 
+scatter_matrix
